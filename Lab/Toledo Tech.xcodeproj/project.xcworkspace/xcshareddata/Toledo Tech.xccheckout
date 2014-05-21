@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>72E8F923-6B8B-46C6-9F4D-98BCD31BAF1C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Toledo Tech</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CB34F733-0619-4DFC-B9A8-7CB0AC2C6672</key>
+		<string>ssh://github.com/GroundSpeed/ToledoTechEvents.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Toledo Tech.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CB34F733-0619-4DFC-B9A8-7CB0AC2C6672</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/GroundSpeed/ToledoTechEvents.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CB34F733-0619-4DFC-B9A8-7CB0AC2C6672</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CB34F733-0619-4DFC-B9A8-7CB0AC2C6672</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ToledoTechEvents</string>
+		</dict>
+	</array>
+</dict>
+</plist>
